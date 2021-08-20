@@ -1,0 +1,56 @@
+{
+    "window.zoomLevel": -1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "FuraCode Nerd Font",
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.tabs.focusMode": "doubleClick",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "terminal.integrated.fontWeight": "600",
+    "terminal.integrated.fontSize": 15,
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {
+        // Activity Bar
+        "activityBar.activeBackground": "#0b3f10",
+        "activityBar.activeBorder": "#15ff00",
+        "activityBar.border": "#15ff00",
+        "activityBar.foreground": "#15ff00",
+
+        // Status Bar
+        "statusBar.foreground": "#000000",
+        "statusBarItem.activeBackground": "#fbff01",
+        "statusBarItem.hoverBackground": "#1a9b1a",
+        "statusBar.background": "#15ff00",
+        // Tab 
+        "tab.activeForeground": "#000000",
+        "tab.activeBackground": "#1bc712",
+        "tab.activeModifiedBorder": "#f20808",
+        "tab.inactiveBackground": "#000000",
+        "tab.inactiveForeground": "#0dff00",
+        "tab.hoverBackground": "#062204",
+        "tab.hoverForeground": "#0dff00",
+        // Eidtor 
+        "editor.background": "#000000",
+
+        // Side bar 
+
+        // "sideBar.hoverBorder": "#ff0000",
+        "sideBar.foreground": "#0dff00",
+        "sideBarSectionHeader.background": "#5eff00",
+        "sideBarSectionHeader.foreground": "#000000",
+        "sideBarSectionHeader.border": "#ff9100",
+        "sideBar.dropBackground": "#ff0000",
+        "icon.foreground": "#3f630a",
+
+        // "sideBarTitle.foreground": "#ff0000",
+
+        "sideBar.background": "#000000"
+    }
+}

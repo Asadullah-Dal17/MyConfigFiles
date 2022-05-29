@@ -1,0 +1,217 @@
+{
+    // --> Editor settings <--
+    "editor.suggestSelection": "first",
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 22, //Recordding codign Tutorial 
+    // --> TEXT Settings <--
+    "editor.fontSize": 18, // for coding Tutorial
+    "editor.fontFamily": "CaskaydiaCove NF, 'Courier New', monospace",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // --> zen mode settings <--
+    "zenMode.fullScreen": true,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": true,
+    "zenMode.hideTabs": true,
+    "zenMode.centerLayout": false,
+    // --> other settings <--
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeLens": false,
+    // --> Code formator setttings <--
+    "editor.formatOnSave": true,
+    // --> Pylance setting <--
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.completeFunctionParens": true,
+    "git.suggestSmartCommit": false,
+    // --> Linter settings <--
+    "python.linting.pydocstyleEnabled": false,
+    // --> Spelling checkers words dictonray <--
+    "cSpell.userWords": [
+        "alginment",
+        "aruco",
+        "colab",
+        "dlib",
+        "homography",
+        "imread",
+        "imshow",
+        "imwrite",
+        "Mediapipe",
+        "opencv",
+        "xmin",
+        "ymin"
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editorAssociations": {
+        "*.py": "default"
+    },
+    // --> Selecting the Theme <--
+    "workbench.colorTheme": "Monokai",
+    // --> code formatter <--
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    // --> Changing the colors of VS code <-- 
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#32e8005e",
+        "editorBracketMatch.border": "#11ff00",
+        // --> Activity Bar <--
+        "activityBar.activeBorder": "#000000",
+        "activityBar.activeBackground": "#00ff00",
+        "activityBar.background": "#000000",
+        "activityBar.border": "#00ff00",
+        "activityBar.foreground": "#ff00c8e8",
+        "activityBarBadge.background": "#ff0000",
+        "activityBar.inactiveForeground": "#00ff00",
+        "activityBarBadge.foreground": "#00ff00",
+        "activityBar.activeFocusBorder": "#ff0000",
+        // --> Status Bar Setting <-- 
+        "statusBar.background": "#00ff00",
+        "statusBarItem.hoverBackground": "#ff00ffa8",
+        "statusBarItem.focusBorder": "#ff0000",
+        "statusBar.foreground": "#000000",
+        "statusBar.focusBorder": "#ec0e0e",
+        "statusBarItem.compactHoverBackground": "#ffff00",
+        // --> Termainal <--
+        "terminal.ansiGreen": "#00ff00",
+        "terminal.background": "#000000",
+        "terminal.foreground": "#00ff00",
+        // --> Side Bar <--
+        "sideBar.border": "#00ff00",
+        "sideBarSectionHeader.border": "#000000",
+        "sideBarSectionHeader.background": "#00ff00",
+        "sideBarSectionHeader.foreground": "#000000",
+        "sideBarTitle.foreground": "#00ff00",
+        "sideBar.foreground": "#00ff00",
+        "sideBar.background": "#000000c8",
+        // --> Title Bar <--  
+        "titleBar.border": "#6fee00",
+        "titleBar.activeForeground": "#00FF00",
+        "titleBar.inactiveBackground": "#FFFF00",
+        "titleBar.inactiveForeground": "#000000",
+        // --> Tabes <-- 
+        "tab.activeBackground": "#00ff00d2",
+        "tab.activeForeground": "#000000",
+        "tab.activeBorder": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "tab.inactiveForeground": "#00ff00",
+        // --> Editor <--
+        "editor.background": "#000000",
+        // --> Menu <--
+        "menu.foreground": "#00ff00",
+        "menu.selectionBackground": "#00ff00",
+        "menu.selectionForeground": "#000000",
+        "menu.background": "#000000"
+    },
+    "workbench.sideBar.location": "right",
+    "workbench.productIconTheme": "developer-icons",
+    "workbench.iconTheme": "developer-icon-theme",
+    "window.zoomLevel": 1
+}{
+    // --> Editor settings <--
+    "editor.suggestSelection": "first",
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 22, //Recordding codign Tutorial 
+    // --> TEXT Settings <--
+    "editor.fontSize": 18, // for coding Tutorial
+    "editor.fontFamily": "CaskaydiaCove NF, 'Courier New', monospace",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // --> zen mode settings <--
+    "zenMode.fullScreen": true,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": true,
+    "zenMode.hideTabs": true,
+    "zenMode.centerLayout": false,
+    // --> other settings <--
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeLens": false,
+    // --> Code formator setttings <--
+    "editor.formatOnSave": true,
+    // --> Pylance setting <--
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.completeFunctionParens": true,
+    "git.suggestSmartCommit": false,
+    // --> Linter settings <--
+    "python.linting.pydocstyleEnabled": false,
+    // --> Spelling checkers words dictonray <--
+    "cSpell.userWords": [
+        "alginment",
+        "aruco",
+        "colab",
+        "dlib",
+        "homography",
+        "imread",
+        "imshow",
+        "imwrite",
+        "Mediapipe",
+        "opencv",
+        "xmin",
+        "ymin"
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editorAssociations": {
+        "*.py": "default"
+    },
+    // --> Selecting the Theme <--
+    "workbench.colorTheme": "Monokai",
+    // --> code formatter <--
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    // --> Changing the colors of VS code <-- 
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#32e8005e",
+        "editorBracketMatch.border": "#11ff00",
+        // --> Activity Bar <--
+        "activityBar.activeBorder": "#000000",
+        "activityBar.activeBackground": "#00ff00",
+        "activityBar.background": "#000000",
+        "activityBar.border": "#00ff00",
+        "activityBar.foreground": "#ff00c8e8",
+        "activityBarBadge.background": "#ff0000",
+        "activityBar.inactiveForeground": "#00ff00",
+        "activityBarBadge.foreground": "#00ff00",
+        "activityBar.activeFocusBorder": "#ff0000",
+        // --> Status Bar Setting <-- 
+        "statusBar.background": "#00ff00",
+        "statusBarItem.hoverBackground": "#ff00ffa8",
+        "statusBarItem.focusBorder": "#ff0000",
+        "statusBar.foreground": "#000000",
+        "statusBar.focusBorder": "#ec0e0e",
+        "statusBarItem.compactHoverBackground": "#ffff00",
+        // --> Termainal <--
+        "terminal.ansiGreen": "#00ff00",
+        "terminal.background": "#000000",
+        "terminal.foreground": "#00ff00",
+        // --> Side Bar <--
+        "sideBar.border": "#00ff00",
+        "sideBarSectionHeader.border": "#000000",
+        "sideBarSectionHeader.background": "#00ff00",
+        "sideBarSectionHeader.foreground": "#000000",
+        "sideBarTitle.foreground": "#00ff00",
+        "sideBar.foreground": "#00ff00",
+        "sideBar.background": "#000000c8",
+        // --> Title Bar <--  
+        "titleBar.border": "#6fee00",
+        "titleBar.activeForeground": "#00FF00",
+        "titleBar.inactiveBackground": "#FFFF00",
+        "titleBar.inactiveForeground": "#000000",
+        // --> Tabes <-- 
+        "tab.activeBackground": "#00ff00d2",
+        "tab.activeForeground": "#000000",
+        "tab.activeBorder": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "tab.inactiveForeground": "#00ff00",
+        // --> Editor <--
+        "editor.background": "#000000",
+        // --> Menu <--
+        "menu.foreground": "#00ff00",
+        "menu.selectionBackground": "#00ff00",
+        "menu.selectionForeground": "#000000",
+        "menu.background": "#000000"
+    },
+    "workbench.sideBar.location": "right",
+    "workbench.productIconTheme": "developer-icons",
+    "workbench.iconTheme": "developer-icon-theme",
+    "window.zoomLevel": 1
+}
